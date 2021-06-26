@@ -12,9 +12,9 @@
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey) -->
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-red)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=siddhant-roy&label=Profile%20Views&color=118c70&style=flat" alt="siddhant-roy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rishichourasia&label=Profile%20Views&color=118c70&style=flat" alt="rishichourasia" /> </p>
 
-I'm a Engineering student at [D.Y Patil College of Engineering](https://chennai.vit.ac.in). Front-end developer with passion for problem solving and Fullstack development. Fascinated by everything that's CS related. Proudly from India <sub>_IN_</sub>
+I'm a Engineering student at [D.Y Patil College of Engineering,Pune](https://chennai.vit.ac.in). Front-end developer with passion for problem solving and Fullstack development. Fascinated by everything that's CS related. Proudly from India <sub>_IN_</sub>
 
 <!--<br />
 <p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=siddhant-roy" alt="siddhant-roy" /></a> </p>
@@ -36,7 +36,7 @@ I'm a Engineering student at [D.Y Patil College of Engineering](https://chennai.
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)-->
 
-- 🔭 Currently studying: **Computer Science and Engineering** at Vellore Institute of Technology, Chennai
+- 🔭 Currently studying: **Computer Science and Engineering** at D.Y Patil College of Engineering,Pune
 - 😄 Pronouns: **He/Him**
 - 🌱 Currently learning: **React.JS**
 - ⚙️ Mastering: `.html`, `.css`, `.js`, `.ts`, `.jsx`, `.cs`, `.cpp`, `.py`
@@ -45,15 +45,15 @@ I'm a Engineering student at [D.Y Patil College of Engineering](https://chennai.
 
 ### 📬 Get in Touch
 
-- GitHub: [github.com/siddhant-roy][github]
-- LinkedIn: [linkedin.com/in/siddhantroy][linkedin]
-- E-mail: siddhant.roy.official@gmail.com
+- GitHub: [github.com/rishichourasia][github]
+- LinkedIn: [linkedin/risichourasia/][linkedin]
+- E-mail: rishichourasia2100@gmail.com
 - Site: Coming soon :)
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-![Siddhant Roy's github stats](https://github-readme-stats.vercel.app/api?username=siddhant-roy&show_icons=true&hide_border=true)
+![Siddhant Roy's github stats](https://github-readme-stats.vercel.app/api?username=rishichourasia&show_icons=true&hide_border=true)
 
-[github]: https://github.com/siddhant-roy
+[github]: https://github.com/rishichourasia
 [site]: https://
-[linkedin]: https://www.linkedin.com/in/siddhantroy/
+[linkedin]: https://www.linkedin.com/in/rishi-chourasia-81a8131b2/
