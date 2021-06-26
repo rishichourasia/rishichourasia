@@ -36,7 +36,7 @@ I'm a Engineering student at [D.Y Patil College of Engineering,Pune](https://che
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)-->
 
-- 🔭 Currently studying: **Computer Science and Engineering** at D.Y Patil College of Engineering,Pune
+- 🔭 Currently studying: **Instrumentation and control Engineering** at D.Y Patil College of Engineering,Pune
 - 😄 Pronouns: **He/Him**
 - 🌱 Currently learning: **React.JS**
 - ⚙️ Mastering: `.html`, `.css`, `.js`, `.ts`, `.jsx`, `.cs`, `.cpp`, `.py`
