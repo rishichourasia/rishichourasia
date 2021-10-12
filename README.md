@@ -5,16 +5,16 @@
 
 <!-- ![.NET](https://img.shields.io/badge/.NET-Expert-lightblue) -->
 <!-- ![C++](https://img.shields.io/badge/C++-Expert-purple) -->
-![Python](https://img.shields.io/badge/Python-Expert-lightgreen)
+<!-- ![Python](https://img.shields.io/badge/Python-Expert-lightgreen)
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow) -->
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey) -->
-![SQL](https://img.shields.io/badge/SQL-Intermediate-red)
+<!-- ![SQL](https://img.shields.io/badge/SQL-Intermediate-red) -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rishichourasia&label=Profile%20Views&color=118c70&style=flat" alt="rishichourasia" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishichourasia&label=Profile%20Views&color=118c70&style=flat" alt="rishichourasia" /> </p> -->
 
-I'm a Engineering student at [D.Y Patil College of Engineering,Pune](https://chennai.vit.ac.in). Front-end developer with passion for problem solving and Fullstack development. Fascinated by everything that's CS related. Proudly from India <sub>_IN_</sub>
+I'm an engineering student at [D.Y Patil College of Engineering,Pune]. Front-end developer with passion for problem solving and Fullstack development. Fascinated by everything that's Web related. Proudly from India <sub>_IN_</sub>
 
 <!--<br />
 <p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=siddhant-roy" alt="siddhant-roy" /></a> </p>
