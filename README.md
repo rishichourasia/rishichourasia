@@ -36,10 +36,10 @@ I'm an engineering student at [D.Y Patil College of Engineering,Pune]. Front-end
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)-->
 
-- 🔭 Currently studying: at **D.Y Patil College of Engineering,Pune**
+<!-- - 🔭 Currently studying: at **D.Y Patil College of Engineering,Pune**
 - 🌱 Currently learning: **React.JS**
 - ⚙️ Mastering: `.html`, `.css`, `.js`, `.ts`, `.jsx`, `.cs`, `.cpp`, `.py`
-- 👯 I’m actively looking for **Internships** and/or **Freelance** projects
+- 👯 I’m actively looking for **Internships** and/or **Freelance** projects -->
 <!--(- 💬 I'm mostly active within the **Vue.JS**, **Node.JS** communities)-->
 
 ### 📬 Get in Touch
@@ -51,7 +51,7 @@ I'm an engineering student at [D.Y Patil College of Engineering,Pune]. Front-end
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-![Siddhant Roy's github stats](https://github-readme-stats.vercel.app/api?username=rishichourasia&show_icons=true&hide_border=true)
+<!-- ![Siddhant Roy's github stats](https://github-readme-stats.vercel.app/api?username=rishichourasia&show_icons=true&hide_border=true) -->
 
 [github]: https://github.com/rishichourasia
 [site]: https://
