@@ -17,7 +17,7 @@
 I'm an engineering student at [D.Y Patil College of Engineering,Pune]. Front-end developer with passion for problem solving and Fullstack development. Fascinated by everything that's Web related. Proudly from India <sub>_IN_</sub>
 
 <!--<br />
-<p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=siddhant-roy" alt="siddhant-roy" /></a> sdfsdfsdfasfgnfghfghfghdfasdf/////</p>
+<p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=siddhant-roy" alt="siddhant-roy" /></a> sdfsdfsdfasfgnfghfgasdfasdfhfghdfasdf/////</p>
 <br />-->
 
 <!--
