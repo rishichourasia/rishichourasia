@@ -12,7 +12,7 @@
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey) -->
 <!-- ![SQL](https://img.shields.io/badge/SQL-Intermediate-red) -->
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishichourasia&label=Profile%20Views&color=118c70&style=flat" alt="lk;llk;lk;lk;lk;lk;lkrishichourasia" /> </p> -->
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishichourasia&label=Profile%20Views&color=118c70&style=flat" alt="lk;llk;lk;lkkkkkkokokokokokokok;lk;lk;lkrishichourasia" /> </p> -->
 
 I'm an engineering student at [D.Y Patil College of Engineering,Pune]. Front-end developer with passion for problem solving and Fullstack development. Fascinated by everything that's Web related. Proudly from India <sub>_IN_</sub>
 
