@@ -40,7 +40,7 @@ I'm an engineering student at [D.Y Patil College of Engineering,Pune]. Front-end
 - 🌱 Currently learning: **React.JS**
 - ⚙️ Mastering: `.html`, `.css`, `.js`, `.ts`, `.jsx`, `.cs`, `.cpp`, `.py`
 - 👯 I’m actively looking for **Internships** and/or **Freelance** projects -->
-<!--(- 💬 I'm mostly active within the **Vue.JS**, **Node.JS** communiasdfties)-->
+<!--(- 💬 I'm mostly active within the **Vue.JS**, **Node.JS** communiasdftidfges)-->
 
 ### 📬 Get in Touch
 
