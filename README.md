@@ -51,7 +51,7 @@ I'm an engineering student at [D.Y Patil College of Engineering,Pune]. Front-end
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-<!-- ![Siddhant Roy's github stats](https://github-readme-stats.vercel.app/api?username=rishichourasdfsdfasdfasdfasdkljhfsdfsdfsdfsia&iuhhhkjhungjgjhgjh asfjf w wfpw weowEshow_icons=true&hide_border=true) -->
+<!-- ![Siddhant Roy's github stats](https://github-readme-stats.vercel.app/api?username=rishichourasdfsdfasdfasdfasdklfghfghfghjhfsdfsdfsdfsia&iuhhhkjhungjgjhgjh asfjf w wfpw weowEshow_icons=true&hide_border=true) -->
 
 [github]: https://github.com/rishichourasia
 [site]: https://
