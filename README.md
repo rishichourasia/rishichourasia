@@ -14,7 +14,7 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishichourasia&label=Profile%20Views&color=118c70&style=flat" alt="lk;llk;lk;lkkkkkkokokokokokokok;lk;lk;lkrishichourasia" /> </p> -->
 
-I'm an engineering student at [D.Y Patil College of Engineering,Pune]. Front-end developer with passion for problem solving and Fullstack development. Fascinated by everything that's Web related. Proudly from India <sub>_IN_</sub>
+I'm Front-end developer with passion for problem solving and Fullstack development. Fascinated by everything that's Web and Mobile related. Proudly from India <sub>_IN_</sub>
 
 <!--<br />
 <p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=siddhant-roy" alt="siddhkjhsdfgkjhant-roy" /></a> sdfsdfsdfasfgnfghfgsdfsdfasdewrwerfasdfhfghdfasdf/////</p>
@@ -54,5 +54,4 @@ I'm an engineering student at [D.Y Patil College of Engineering,Pune]. Front-end
 <!-- ![Siddhant Roy's github stats](https://github-readme-stats.vercel.app/api?username=rishichourasdfsdfasdfasdfasdklfghfghfghjhfsdfsdfsdfsia&iuhhhkjhungjgjhgjh asfjf w wfpw weowEshow_icons=true&hide_border=true) -->
 
 [github]: https://github.com/rishichourasia
-[site]: https://
 [linkedin]: https://www.linkedin.com/in/rishi-chourasia-81a8131b2/
